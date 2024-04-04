@@ -1,6 +1,6 @@
 # Measuring Need-Based Justice
 
-This is a repository for the chapter “Measuring Need-Based Justice” by Mark Siebel and me.[^1]
+This is a repository for the chapter “Measuring Need-Based Justice” by Mark Siebel and me, published in _Priority of Needs?_, edited by Bernhard Kittel and Stefan Traub.[^1]
 
 - Data can be found in `/analysis`, along with a do file for analysis with Stata (version 14.2).
 
